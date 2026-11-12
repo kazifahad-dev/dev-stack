@@ -21,7 +21,7 @@
 ## 🔗 Links
 
 - 🌐 **Live Demo:** [https://dev-stack-five-silk.vercel.app/](https://dev-stack-five-silk.vercel.app/)
-- 💻 **Source Code:** [github.com/kazifahad-dev/YOUR_REPO_NAME](https://github.com/kazifahad-dev/YOUR_REPO_NAME)
+- 💻 **Source Code:** [github.com/kazifahad-dev/dev-stack]([https://github.com/kazifahad-dev/YOUR_REPO_NAME](https://github.com/kazifahad-dev/dev-stack))
 
 ## 🛠️ Technologies Used
 
